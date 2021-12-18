@@ -15,3 +15,5 @@ Deployment section
 
 ### Copyright
 Tir training
+
+Doing an emergency fix after the commit
