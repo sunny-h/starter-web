@@ -12,3 +12,6 @@ Sample website with plenty of files for demos
 Deployment section
 
 ## How to Contribute
+
+### Copyright
+Tir training
